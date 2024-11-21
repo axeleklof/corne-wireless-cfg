@@ -54,7 +54,7 @@
                 };
                 extra {
                         status = "reserved";
-                                                }
+                                                };
         };
 
 };
